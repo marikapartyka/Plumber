@@ -23,7 +23,7 @@ Grafika i dżwięk jakich użyłam pochodzą z następującego źródła, udost�
 Reszta grafik jest wykonana samodzielnie w programie Paint.
 
 ## Licencja
-Projekt udostępniony na zasadzie licencji MIT - patrz plik (LICENSE)[LICENSE]
+Projekt udostępniony na zasadzie licencji MIT - patrz plik [LICENSE](LICENSE)
 
 # Plumber Game
 
@@ -50,7 +50,7 @@ Other graphics are made by me.
 
 ## License
 
-This project is licensed under the MIT License - see the (LICENSE)[LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
    
 
