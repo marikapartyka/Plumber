@@ -4,18 +4,18 @@
 ## Wymagania systemowe
 Python w wersji 3.x, pakiet pygame, random.
 
-## Jak uruchomiæ grê:
-W terminalu za poœrednictwem pythona uruchomiæ plik Plumber.py wpisuj¹c np. **/opt/anaconda3/bin/python Plumber.py**
+## Jak uruchomiÄ‡ grÄ™:
+W terminalu za poÅ›rednictwem pythona uruchomiÄ‡ plik Plumber.py wpisujÄ…c np. **/opt/anaconda3/bin/python Plumber.py**
 
 
 
-## Instrukcja obs³ugi:
-  W grze wcielamy siê w hydraulika, którego zadaniem jest u³o¿enie rur w taki sposób, aby stworzyæ scie¿kê ³¹cz¹c¹ pierwsz¹ rurê z ostatni¹. Z ka¿dym poziomem generowana jest nowa plansza. Mamy 2 rodzaje rur. Rury mo¿emy obracaæ, klikaj¹c na nie myszk¹. Ka¿de klikniêcie to obrót rury o 90 stopni. Po up³ywie 15 sekund od wygenerowania planszy i rozpoczêcia gry, przez rury zaczyna p³yn¹æ woda. Gracz ma za zadanie dokoñczyæ œciê¿kê i zd¹¿yæ przed przelaniem wody. Jeœli nie uda siê wykonaæ tego zadania w odpowiednim czasie, gra koñczy siê. Jeœli u³o¿ymy œciê¿kê, mo¿emy wygenerowaæ nowy poziom.
-  Mo¿emy zrobiæ pauze w grze klikaj¹c klawisz "p". W opcjach mamy mo¿liwoœæ wyciszenia dŸwiêku, klikaj¹c w odpowiedni przycisk, a tak¿e zmieniæ jêzyk, do wyboru: polski lub angielski.
+## Instrukcja obsÅ‚ugi:
+  W grze wcielamy siÄ™ w hydraulika, ktÃ³rego zadaniem jest uÅ‚oÅ¼enie rur w taki sposÃ³b, aby stworzyÄ‡ scieÅ¼kÄ™ Å‚Ä…czÄ…cÄ… pierwszÄ… rurÄ™ z ostatniÄ…. Z kaÅ¼dym poziomem generowana jest nowa plansza. Mamy 2 rodzaje rur. Rury moÅ¼emy obracaÄ‡, klikajÄ…c na nie myszkÄ…. KaÅ¼de klikniÄ™cie to obrÃ³t rury o 90 stopni. Po upÅ‚ywie 15 sekund od wygenerowania planszy i rozpoczÄ™cia gry, przez rury zaczyna pÅ‚ynÄ…Ä‡ woda. Gracz ma za zadanie dokoÅ„czyÄ‡ Å›cieÅ¼kÄ™ i zdÄ…Å¼yÄ‡ przed przelaniem wody. JÅ›li nie uda siÄ™ wykonaÄ‡ tego zadania w odpowiednim czasie, gra koÅ„czy siÄ™. JeÅ¼eli uÅ‚oÅ¼ymy Å›cieÅ¼kÄ™, moÅ¼emy wygenerowaÄ‡ nowy poziom.
+  MoÅ¼emy zrobiÄ‡ pauze w grze klikajÄ…c klawisz "p". W opcjach mamy moÅ¼liwoÅ›Ä‡ wyciszenia dÅºwiÄ™ku, klikajÄ…c w odpowiedni przycisk, a takÅ¼e zmieniÄ‡ jÄ™zyk, do wyboru: polski lub angielski.
   
   
-## ród³a
-Grafika i dŸwiêk jakich u¿y³am pochodz¹ z nastêpuj¹cego Ÿród³a, udostêpnione na licencji CCC0-1.0:
+## Å¹rÃ³dÅ‚a
+Grafika i dÅ¼wiÄ™k jakich uÅ¼yÅ‚am pochodzÄ… z nastÄ™pujÄ…cego ÅºrÃ³dÅ‚a, udostÄ™pnione na licencji CC0-1.0:
 
  *    https://opengameart.org/content/ground
  *    https://opengameart.org/content/rat-sewer
@@ -23,7 +23,7 @@ Grafika i dŸwiêk jakich u¿y³am pochodz¹ z nastêpuj¹cego Ÿród³a, udostêpnione na 
 Reszta grafik jest wykonana samodzielnie w programie Paint.
 
 ## Licencja
-Projekt udostêpniony na zasadzie licencji MIT - patrz plik LICENSE.md
+Projekt udostÄ™pniony na zasadzie licencji MIT - patrz plik LICENSE.md
 
 # Plumber Game
 
