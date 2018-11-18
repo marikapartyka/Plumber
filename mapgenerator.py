@@ -4,11 +4,11 @@ from GameObjects import PipeType
 
 
 
-def generate_map(rows, columns):                    #glowna funkcja, tylko z niej musisz skorzystac zeby generowac mapke, reszta jest pomocnicza
+def generate_map(rows, columns):                    
     pipe_list = generate_first_row(columns)
     pipe_list += generate_middle_rows(rows-2,columns)
     pipe_list += generate_last_row(columns)
-    return pipe_list #zwraca liste rurek, zeby pasowala do Twojej implementacji mapki
+    return pipe_list 
 
 def generate_first_row(columns):
     first_row = [Pipe(PipeType.STRAIGHT,0,True)] +\
@@ -35,7 +35,7 @@ def generate_middle_rows(rows,columns): #False to krok w dol, True to w prawo
         else:
             middle_rows.append(Pipe(PipeType.STRAIGHT))
         if direction == False and iterator != len(sequence):
-            middle_rows += [get_random_pipe() for i in range(columns-1)]#Pipe(PipeType.EMPTY) for i in range(columns-1)]
+            middle_rows += [get_random_pipe() for i in range(columns-1)]
 
     return middle_rows
 
@@ -43,9 +43,7 @@ def get_random_pipe():
     random_number = random.randint(0,1)
     return Pipe(PipeType(random_number),get_random_angle())
 
-# def get_random_direction_change_pipe():
-#     random_number = random.randint(1,2) #enumy typu rurki to dla 1 Corner a dla 2 Cross
-#     return Pipe(PipeType(random_number),get_random_angle())
+
 
 def get_random_angle():
    return 90*random.randint(0,3)
