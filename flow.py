@@ -127,7 +127,7 @@ class Flow(object):
             else:
                 return False
 
-    def reset(self, map_):
+    def reset(self, map_):     #funkcja restartujaca mape, przepływ wody -> po kliknięciu Nowa gra
         self.clock.restart()
         self.x = self.starting_x
         self.y = self.starting_y
