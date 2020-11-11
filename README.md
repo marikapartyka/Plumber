@@ -13,7 +13,10 @@ W terminalu za pośrednictwem pythona uruchomić plik Plumber.py wpisując np. *
 ## Instrukcja obsługi:
   W grze wcielamy się w hydraulika, którego zadaniem jest ułożenie rur w taki sposób, aby stworzyć scieżkę łączącą pierwszą rurę z ostatnią. Z każdym poziomem generowana jest nowa plansza. Mamy 2 rodzaje rur. Rury możemy obracać, klikając na nie myszką. Każde kliknięcie to obrót rury o 90 stopni. Po upływie 15 sekund od wygenerowania planszy i rozpoczęcia gry, przez rury zaczyna płynąć woda. Gracz ma za zadanie dokończyć ścieżkę i zdążyć przed przelaniem wody. Jśli nie uda się wykonać tego zadania w odpowiednim czasie, gra kończy się. Jeżeli ułożymy ścieżkę, możemy wygenerować nowy poziom.
   Możemy zrobić pauze w grze klikając klawisz "p". W opcjach mamy możliwość wyciszenia dźwięku, klikając w odpowiedni przycisk, a także zmienić język, do wyboru: polski lub angielski.
-  
+
+## Screenshots
+![alt text](https://github.com/marikapartyka/Plumber/blob/master/Intro.png?raw=true)
+![alt text](https://github.com/marikapartyka/Plumber/blob/master/game.png?raw=true)
   
 ## Źródła
 Grafika i dżwięk jakich użyłam pochodzą z następującego źródła, udostępnione na licencji CC0-1.0:
