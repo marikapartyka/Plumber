@@ -1,11 +1,12 @@
 
 # Gra Plumber
+To mój pierwszy projekt napisany w języku Python.
 
 ## Wymagania systemowe
-Python w wersji 3.x, pakiet pygame, random.
+Python w wersji 3.x, pakiet pygame.
 
 ## Jak uruchomić grę:
-W terminalu za pośrednictwem pythona uruchomić plik Plumber.py wpisując np. **/opt/anaconda3/bin/python Plumber.py**
+W terminalu za pośrednictwem pythona uruchomić plik Plumber.py wpisując np. **python3 Plumber.py**
 
 
 
@@ -26,13 +27,14 @@ Reszta grafik jest wykonana samodzielnie w programie Paint.
 Projekt udostępniony na zasadzie licencji MIT - patrz plik [LICENSE](LICENSE)
 
 # Plumber Game
+This is my first project in Python.
 
 ## System requirements
-Python 3.x, packages: pygame, random.
+Python 3.x, packages: pygame.
 
 ## How to run the game
  In terminal by python run file Plumber.py, e.g.:
- **/opt/anaconda3/bin/python Plumber.py.**
+ **python3 Plumber.py.**
 
 
 ## Instruction
